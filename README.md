@@ -1,5 +1,5 @@
 This repository contains my personal notes and completed projects for
-Udacity's "Space Force Machine Learning Engineer Learning Path"
+Udacity's 2024 "Space Force Machine Learning Engineer Learning Path"
 
 Description:
 This learning path is designed for aspiring or current Machine Learning
