@@ -1,3 +1,4 @@
+# Udacity-AI-ML
 This repository contains my personal notes and completed projects for
 Udacity's 2024 "Space Force Machine Learning Engineer Learning Path"
 
