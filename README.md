@@ -8,7 +8,7 @@ networks, supervised and unsupervised machine learning, deep learning,
 reinforcement learning techniques. Upon completion, learners will be able
 to build and deploy machine learning models into production.
 
-Nanodegrees awarded in this learning path (in order):
+Nanodegrees awarded in this learning path (in order, marked ✓ as I complete them):
 1. AI Programming with Python
 2. Introduction to Machine Learning with PyTorch
 3. Deep Learning
